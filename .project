@@ -42,7 +42,7 @@
 	</natures>
 	<linkedResources>
 		<link>
-			<name>WebContent2</name>
+			<name>WebContent</name>
 			<type>2</type>
 			<location>C:/Users/CHRISTIAN/Desktop/JavaFinal/server/wildfly-10.0.0.Final/standalone/deployments/proyecto1.war</location>
 		</link>
